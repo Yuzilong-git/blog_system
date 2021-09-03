@@ -4,7 +4,7 @@ USER = 'root'
 PASSWORD = '181221'
 CHARSET = "utf8"
 DATABASE = 'blog_system'
-IP = '127.0.0.1'
+IP = '39.105.180.165'
 PORT = 8001
 
 if __name__ == '__main__':
